@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-5QTC8MPTXS
 
 minify:
   disableXML: true
@@ -197,9 +197,7 @@ markup:
     # lineNos: true
     # style: monokai
 
-
-
-
+ignoreLogs: ['warning-goldmark-raw-html']
 
 
 
