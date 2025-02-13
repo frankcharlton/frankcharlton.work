@@ -3,8 +3,7 @@ title: About
 type: about
 ---
 
-![me](/me.png)
-
+<!-- ![me](/me.png) -->
 
 My soul thrives on **deep processing, creative thinking, storytelling, and making things**. My career has been anything but conventional, and I wouldn't change a thing. Every step has shaped how I think and approach problems in unique ways.
 
