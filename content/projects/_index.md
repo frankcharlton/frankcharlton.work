@@ -12,10 +12,10 @@ Here are some recent projects of mine I've been proud of:
 
 ### Telemetry & Data Quality Improvements
 - Served as an **SME in telemetry from mobile applications and hardware stacks**.
-- Developed data validation frameworks and **optimized telemetry pipelines**.
+- Developed data validation processes and **optimized telemetry design**.
 
 ### "Hack Week" Winning Projects
-- Successfully pitched multiple innovative concepts to the company during **Hack Week** events.
-- Created **engaging video and audio demos** to bring ideas to life, leveraging my skills in production.
+- Successfully pitched (and won with) multiple innovative concepts to the company during **Hack Week** events.
+- Created **engaging video and audio demos** to bring ideas to life, leveraging my skills in production and my unique sense of humor.
 - Developed winning projects that combined **data science, storytelling, and creative visualization** to inspire leadership and drive adoption of new ideas.
 - Recognized multiple times as a people's choice winner in addition to judge based wins
