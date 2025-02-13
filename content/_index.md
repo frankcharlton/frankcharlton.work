@@ -1,17 +1,9 @@
----
-title: My Site
-toc: false
----
+# Frank Charlton
 
-This is the landing page.
+After a 14.5 year run at Sonos I am off to my next adventure. Making some music and art for a bit while I think about what's next. Feel free to reach out through LinkedIn for now. Fancy data science portfolio website and blog coming soon!
 
-## Explore
+## data scientist / creative thinker
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+I’ve had an unconventional career—starting in **music production**, transitioning into **software testing**, and eventually finding my passion in **data science**. My work combines **deep analysis, creative problem-solving, and storytelling** to uncover insights that drive impact.
 
-## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
