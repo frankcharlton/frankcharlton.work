@@ -5,3 +5,32 @@ resources/
 
 # Editor
 .vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using npm or yarn for assets)
+node_modules/
+
+# Log files and temporary files
+*.log
+*.bak
+
+# IDE/editor-specific files
+.idea/
+.vscode/
+*.swp
+
+# Git metadata backups
+*.orig
+
+# Dependency directories
+/vendor/
+
+# Private environment files
+.env
+.env.local
+
+# Ignore any local drafts or unpublished content
+content/drafts/
