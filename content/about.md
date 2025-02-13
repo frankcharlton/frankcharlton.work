@@ -5,6 +5,9 @@ type: about
 
 {{< figure src="/me.png" alt="me" width="350" >}}
 
+<!-- <img src="/me.png" class="img-responsive" alt=""> </div> -->
+
+
 My soul thrives on **deep processing, creative thinking, storytelling, and making things**. My career has been anything but conventional, and I wouldn't change a thing. Every step has shaped how I think and approach problems in unique ways.
 
 I started in **music production**, working as a teen in Nashville, graduating from **Berklee College of Music**, and working in some of LA's finest recording studios. Music taught me the power of **iteration, collaboration, and deep listening**—skills that turned out to be incredibly valuable in software testing and data science. 
