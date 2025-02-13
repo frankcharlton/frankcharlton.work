@@ -5,19 +5,19 @@ type: about
 
 My soul thrives on **deep processing, creative thinking, storytelling, and making things**. My career has been anything but conventional, and I wouldn't change a thing. Every step has shaped how I think and approach problems in unique ways.
 
-I started in **music production**, working in **Nashville, Berklee, and LA**. Music taught me the power of **iteration, precision, and deep listening**—skills that I later found incredibly valuable in software testing and data science. 
+I started in **music production**, working as a teen in **Nashville, graduating from Berklee College of Music, and working in some of LA's finest recording studios**. Music taught me the power of **iteration, collaboration, and deep listening**—skills that turned out to be incredibly valuable in software testing and data science. 
 
-My passion for **breaking things to make them better** led me into **software testing**, where I thrived in **collaboration, process improvement, and leading scrum teams**. I worked closely with developers, UX designers, and product managers, continuously pushing for higher software quality. 
+My passion for **breaking things to make them better** led me into **software testing and leadership**, where I thrived in **skill building, process improvement, and leading scrum teams**. I worked closely with developers, UX designers, and product managers, continuously pushing for higher software quality. 
 
-Eventually, my curiosity for analytics evolved into **data science**, where I now work closely with **executives, engineers, product managers, UX professionals, and software testers** to uncover insights that drive real impact. By the end of my tenure at Sonos, I was regularly presenting to executives, leveraging frameworks I had built from scratch.
+Eventually, my curiosity for analytics evolved into **data science**, where I now work closely with **executives, engineers, product managers, UX professionals, and software testers** to uncover insights that drive real impact. By the end of my tenure at Sonos, I was regularly presenting to our executives, leveraging frameworks I had built from scratch.
 
 ## My Skills  
 With a such a diverse background, I bring a unique set of skills to my work:
 
 - **Data Science & Analytics**  
-  - dbt, Snowflake, SQL, Dataiku DSS, Python
+  - Python, dbt, Snowflake, SQL, Tableau, Dataiku DSS
   - Data storytelling & executive presentations
-  - Statistical analysis, changepoint detection, and anomaly detection
+  - Statistical analysis, changepoint detection, and time series analysis
 
 - **Software & Telemetry**  
   - Deep expertise in mobile and hardware telemetry
@@ -26,7 +26,7 @@ With a such a diverse background, I bring a unique set of skills to my work:
 
 - **Creative & Communication**  
   - Technical documentation & training program development
-  - Video production, non-linear editing, and storytelling
+  - Video & audio production, non-linear editing, and storytelling
   - Mental health advocacy, allyship, and neurodiversity support
 
 ## Career Highlights  
@@ -56,7 +56,7 @@ With a such a diverse background, I bring a unique set of skills to my work:
   - Led analyses on app store ratings, downloads, and software sunsetting.  
 
 ## Previous to data
-I had a career in software testing, and led one of our applications scrum teams.
+I had a career in software testing, and led one of our applications scrum teams. Full resume available on LinkedIn.
 
 ## Where I Work  
 I live and work remotely from the **Washington Peninsula**, where the lush nature fuels my creativity and focus. My work is driven by curiosity, innovation, and a love of uncovering patterns that lead to better decision-making.
