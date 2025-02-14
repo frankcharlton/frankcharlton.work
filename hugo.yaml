@@ -1,4 +1,4 @@
-baseURL: "https://frankcharlton.work"
+baseURL: "https://frankcharlton.github.io/frankcharlton.work/"
 title: frankcharlton.work
 pagination.pagerSize: 5
 theme: PaperMod
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-5QTC8MPTXS
+# googleAnalytics: G-5QTC8MPTXS
 
 minify:
   disableXML: true
